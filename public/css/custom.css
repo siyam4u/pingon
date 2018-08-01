@@ -1,0 +1,30 @@
+.img-circle {
+    width: 150px;
+    height:150px;
+}
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.verticalAlignMiddle {
+    height: 100px;
+    line-height: 100px;
+}
+.verticalAlignMiddle a {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.btn {
+    font-size: 12px;
+    cursor: pointer;
+}
+.form-control {
+    width: 50%;
+}
